@@ -2,7 +2,7 @@
 
 ## Description
 
-There are notes I took while following the tutorial [React Foundations](https://nextjs.org/learn/react-foundations). I started with an empty directory and created files as instructed. I noticed the tutorial was written for older versions of React and Next.js which introduced some problems later on.
+There are notes I took while following the Next.js tutorial [React Foundations](https://nextjs.org/learn/react-foundations). I started with an empty directory and created files as instructed. I noticed the tutorial was written for older versions of React and Next.js which introduced some problems later on.
 
 ## Technologies used
 
