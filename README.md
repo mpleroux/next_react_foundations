@@ -55,4 +55,4 @@ That solved the problem and the file `app/layout.js` was created by the dev serv
 
 ## Screenshot
 
-![Screenshot of Tic-Tac-Toe app](./public/screenshot.png "Screenshot of Tic-Tac-Toe app")
+![Screenshot of React Foundations app](./public/screenshot.png "Screenshot of React Foundations app")
