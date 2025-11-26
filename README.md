@@ -9,7 +9,7 @@ There are notes I took while following the Next.js tutorial [React Foundations](
 - JavaScript
 - React 18
 - React DOM 18
-- Next.js 16
+- Next.js 14
 
 ## Project setup
 
