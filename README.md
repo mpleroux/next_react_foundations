@@ -11,6 +11,13 @@ There are notes I took while following the Next.js tutorial [React Foundations](
 - React DOM 18
 - Next.js 14
 
+## Install and run
+
+```sh
+npm install
+npm run dev
+```
+
 ## Project setup
 
 Everything went smoothly while using the `react` and `react-dom` scripts from [unpkg.com](unpkg.com).
